@@ -19,7 +19,8 @@ body {
 .container {
     width: 100%; /* Фиксированная ширина */
     max-width: 400;
-    height: 667px; /* Фиксированная высота */
+    height: 100%;
+    max-height: 667px; /* Фиксированная высота */
     background-color: #1a3a2b; /* Темно-зелёный контейнер */
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Более мрачная тень */
