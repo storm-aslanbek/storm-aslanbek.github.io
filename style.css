@@ -26,6 +26,7 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Более мрачная тень */
     overflow: hidden;
     position: relative; /* Чтобы нижняя панель не сдвигалась */
+    justify-content: space-between;
 }
 
 /* Шапка сайта */
