@@ -17,7 +17,8 @@ body {
 }
 
 .container {
-    width: 375px; /* Фиксированная ширина */
+    width: 100%; /* Фиксированная ширина */
+    max-width: 400;
     height: 667px; /* Фиксированная высота */
     background-color: #1a3a2b; /* Темно-зелёный контейнер */
     border-radius: 8px;
